@@ -3,7 +3,8 @@ A todo list app with a local server.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
 ## Development server
-Run `npm run server` to start the local server which stores the tasks.
+Run `npm run server` to start the local JSON server which stores the tasks.
+The JSON server runs on `http://localhost:5000/`
 On a new terminal run `ng serve` for a dev enviornment. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
